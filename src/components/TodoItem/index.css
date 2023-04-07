@@ -1,0 +1,15 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.button {
+  border: 1px solid #ff0b37;
+  background-color: transparent;
+  color: #ff0b37;
+  margin-left: 30px;
+  width: 90px;
+  height: 40px;
+  border-radius: 5px;
+}
